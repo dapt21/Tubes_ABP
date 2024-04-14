@@ -32,7 +32,7 @@ const Dashboard = () => {
                     </Grid>
                     <Grid item xs={6}>
                         <Box>
-
+                            
                         </Box>
                     </Grid>
                     <Grid item xs={6}>

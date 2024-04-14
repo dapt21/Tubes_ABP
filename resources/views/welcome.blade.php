@@ -18,6 +18,5 @@
     </head>
     <body >
          <div id='example'></div>
-         <p>{{$data[0]["id"]}}</p>   
     </body>
 </html>
